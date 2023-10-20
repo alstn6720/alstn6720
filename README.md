@@ -1,3 +1,8 @@
+# 웹 퍼블리셔 지망생 : 김민수
+깃허브 프로필 소개입니다.
+경력과 스킬 & 툴, 포트폴리오등의 소개가 있습니다.
+
+
 <h1 align="center">Hi 👋, I'm 김민수</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
